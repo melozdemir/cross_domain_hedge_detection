@@ -105,7 +105,7 @@ Performs inference on labeled test sets from BioScope, HedgePeer and UNSC (subse
 - Update `model_path` 
 
 ## Notebook Overview for Cue and Span Analysis
-### hedge_bio_cue_span_analysis.ipynb
+### 1. `hedge_bio_cue_span_analysis.ipynb`
 
 This notebook implements various functions for processing datasets in hedge cue and span analysis.
 
