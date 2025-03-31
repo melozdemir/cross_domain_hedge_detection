@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Notebooks Overview for Cue Detection and Analysis
 
-### 1. `last-version-unsc-cue-inference_data_analysis.ipynb`
+### 1. `unsc_cue_inference_data_analysis.ipynb`
 **UNSC Hedge Cue Inference & Data Analysis**
 
 This notebook performs hedge cue inference on the UN Security Council (UNSC) corpus, using a fine-tuned transformer model. It also analyzes the frequency and distribution of hedging across the corpus.
@@ -33,7 +33,7 @@ This notebook performs hedge cue inference on the UN Security Council (UNSC) cor
 
 ---
 
-### 2. `hedge-cue-detection-30-03-last-training.ipynb`
+### 2. `hedge_cue_detection_training.ipynb`
 **Hedge Cue Detection – Model Training Pipeline**
 
 This notebook implements the training pipeline for hedge cue detection using transformer-based models. Cue detection is framed as a binary token classification task.
@@ -50,7 +50,7 @@ This notebook implements the training pipeline for hedge cue detection using tra
 
 ---
 
-### 3. `cue-inference-on-bioscope-hedgepeer-30-03-last.ipynb`
+### 3. `cue_inference_on_bioscope_hedgepeer.ipynb`
 **Hedge Cue Inference – Evaluation on BioScope & HedgePeer**
 
 Performs inference on labeled test sets from BioScope and HedgePeer using previously fine-tuned transformer models.
@@ -61,7 +61,7 @@ Performs inference on labeled test sets from BioScope and HedgePeer using previo
 - **Model**: Fine-tuned transformer (BERT, SciBERT, XLNet)
 - **Metrics**: Precision, Recall, F1-score (saved to CSV)
 
-** Usage**
+**Usage**
 - Choose the model to evaluate (comment/uncomment as needed)
 - Upload the dataset and fine-tuned `.pt` model weights
 - Update paths to model and tokenizer
@@ -74,16 +74,15 @@ Performs inference on labeled test sets from BioScope and HedgePeer using previo
 cross_domain_hedge_detection/
 │
 ├── notebooks/
-│   ├── hedge-cue-detection-30-03-last-training.ipynb
-│   ├── last-version-unsc-cue-inference_data_analysis.ipynb
-│   └── cue-inference-on-bioscope-hedgepeer-30-03-last.ipynb
+│   ├── cue_notebooks
+│   ├── span_notebooks
+│   
 │
 ├── requirements.txt
 ├── README.md
 
 └── datasets/   
 ```
-
 
 
 ## Acknowledgments
