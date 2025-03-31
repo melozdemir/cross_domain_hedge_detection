@@ -104,6 +104,18 @@ Performs inference on labeled test sets from BioScope, HedgePeer and UNSC (subse
 - Upload the dataset and fine-tuned model in `.pt` file
 - Update `model_path` 
 
+## Notebook Overview for Cue and Span Analysis
+### hedge_bio_cue_span_analysis.ipynb
+
+This notebook implements various functions for processing datasets in hedge cue and span analysis.
+
+**Overview**
+- Main functions output: TOP 10 hedge cues, TOP 10 POS tags, TOP span lengths, hedge-span relationships, dataset comparison across these metrics.
+
+**Usage**
+- Run all cells in Jupyter Notebook, Kaggle, or Colab.
+- Update dataset path accordingly
+
 ---
 
 ## Folder Structure 
