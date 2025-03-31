@@ -68,6 +68,42 @@ Performs inference on labeled test sets from BioScope and HedgePeer using previo
 - Upload the dataset and fine-tuned `.pt` model weights
 - Update paths to model and tokenizer
 
+
+## Notebooks Overview for Span Detection 
+
+### 1. `hedge_span_detection_training.ipynb`
+**Hedge Span Detection – Model Training Pipeline***
+
+This notebook implements the training pipeline for hedge span detection using transformer-based models. Span detection is framed as a binary token classification task.
+
+**Overview**
+- **Goal**: Train a transformer model to classify In-Scope vs Out-Scope tokens
+- **Supported Models**: `BERT`, `SciBERT`, `XLNet`  
+- **Datasets**: `HedgePeer`, `BioScope`
+
+**Usage**
+- Set the `trans_model` variable to select the transformer model
+- Set the `data` variable to select the data for training
+- Upload and specify the correct paths for datasets
+- Trained models are save as .pt files
+
+### 2. `hedge_span_inference.ipynb`
+**Hedge Span Detection – Model Training Pipeline***
+
+Performs inference on labeled test sets from BioScope, HedgePeer and UNSC (subset) using previously fine-tuned transformer models.
+
+**Overview**
+- **Goal**: Evaluate model performance on test data
+- **Datasets**: `BioScope`, `HedgePeer` and `UNSC` 
+- **Model**: Fine-tuned transformer (BERT, SciBERT, XLNet)
+- **Metrics**: Precision, Recall, F1-score (saved to CSV)
+
+**Usage**
+- Set the `trans_model` variable to select the transformer model for inference
+- Set the `data` variable to select the data for inference
+- Upload the dataset and fine-tuned model in `.pt` file
+- Update `model_path` 
+
 ---
 
 ## Folder Structure 
