@@ -1,0 +1,738 @@
+[
+    {
+        "Review_id": "UNSC_2017_SPV.7929_spch050.txt",
+        "Sentence_id": 20,
+        "Sentence": "I would like to stress that Oman is ready to assume\nits role in attaining that goal by cooperating with all\nparties concerned.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2013_SPV.7007_spch008.txt",
+        "Sentence_id": 10,
+        "Sentence": "While we talk of the future, which we hope will\nbe bright and prosperous, we must also address the\npresent, which is hardly reassuring.",
+        "Gold_Hedges": [
+            {
+                "Hedge": "hope",
+                "Span": "the future, which we hope will\nbe bright and prosperous"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6178Resumption1_spch006.txt",
+        "Sentence_id": 24,
+        "Sentence": "We look forward to the development of the\ndraft strategic guidance note from the Secretariat on an\napproach to robust peacekeeping before the end of\n2009.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2010_SPV.6411_spch008.txt",
+        "Sentence_id": 22,
+        "Sentence": "This opportunity could\nbe used for a joint event with the Peacebuilding\nCommission in order to review the status of women in\npeacebuilding settings.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "could",
+                "Span": "This opportunity could\nbe used for a joint event with the Peacebuilding\nCommission"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6228_spch016.txt",
+        "Sentence_id": 22,
+        "Sentence": "Nevertheless, my\nGovernment is disappointed that the Croatian\nGovernment has not sufficiently demonstrated to the\nProsecutor that they have pursued all avenues of\ninvestigation and that key requested documents\nrelating to the Gotovina case remain to be found or\naccounted for.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2010_SPV.6276_spch008.txt",
+        "Sentence_id": 12,
+        "Sentence": "Important progress has also been made\nconcerning the situation of internally displaced\npersons.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2014_SPV.7217_spch014.txt",
+        "Sentence_id": 14,
+        "Sentence": "We must also learn to question\nsome of our approaches with regard to peacebuilding\nand State-building.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2006_SPV.5432_spch027.txt",
+        "Sentence_id": 3,
+        "Sentence": "I would also like to thank\nmy friend Mr. Ramos-Horta for attending today's\nmeeting as Foreign Minister of Timor-Leste and for his\nstatement.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8532_spch002.txt",
+        "Sentence_id": 34,
+        "Sentence": "I appreciate the financial support provided by\nJapan and many others for those critical projects.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2007_SPV.5655_spch002.txt",
+        "Sentence_id": 38,
+        "Sentence": "Another possibility would be to ask the\nAfrican Union and the Central African Economic and\nMonetary Community to study the possibility of\nstrengthening the mandate and the role of the 380\nsoldiers of its Multinational Force.",
+        "Gold_Hedges": [
+            {
+                "Hedge": "possibility",
+                "Span": "Another possibility would be to ask the\nAfrican Union and the Central African Economic and\nMonetary Community"
+            },
+            {
+                "Hedge": "possibility",
+                "Span": "to study the possibility of\nstrengthening the mandate and the role of the 380\nsoldiers of its Multinational Force."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6114_spch021.txt",
+        "Sentence_id": 42,
+        "Sentence": "You can rest assured,\nMadame President, that Austria remains committed to a\nmore effective and efficient framework for the\nprotection of children.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7985_spch021.txt",
+        "Sentence_id": 9,
+        "Sentence": "We\nhave to face the fact that this imminent threat requires\nour immediate action so as to avert consequences of a\nglobal scale.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2005_SPV.5127_spch028.txt",
+        "Sentence_id": 15,
+        "Sentence": "First, it would be good to have training for\nUnited Nations staff deployed to countries under arms\nembargoes on the monitoring of such embargoes and\non related aspects, such as the collection of baseline\ndata on and the identification of seized weapons.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "would",
+                "Span": "it would be good to have training for\nUnited Nations staff deployed to countries under arms\nembargoes on the monitoring of such embargoes and\non related aspects"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2006_SPV.5385_spch007.txt",
+        "Sentence_id": 30,
+        "Sentence": "We\nmust all make a collective effort to help restore normal\ncooperation.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4835_spch044.txt",
+        "Sentence_id": 7,
+        "Sentence": "Against that backdrop, the Republic of Korea\nwould like to highlight the importance of capacity-\nbuilding at the local level.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7758_spch046.txt",
+        "Sentence_id": 6,
+        "Sentence": "We expect advances in that process and look\nforward to the possibility of concluding an instrument\nthat would ban the only weapons of mass destruction\nthat have never been explicitly prohibited, despite the\nfact that they violate elemental norms of international\nhumanitarian law.",
+        "Gold_Hedges": [
+            {
+                "Hedge": "expect",
+                "Span": "expect advances in that process"
+            },
+            {
+                "Hedge": "possibility",
+                "Span": "possibility of concluding an instrument\nthat would ban the only weapons of mass destruction\nthat have never been explicitly prohibited"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.8058_spch002.txt",
+        "Sentence_id": 51,
+        "Sentence": "It should not be any later than the end\nof October or early November.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7908_spch002.txt",
+        "Sentence_id": 20,
+        "Sentence": "Estimates suggest that the law could enable the\nretroactive regularization of thousands of housing units\nand the gradual legalization of dozens of settlement\noutposts.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "suggest",
+                "Span": "suggest that the law could enable the\nretroactive regularization of thousands of housing units\nand the gradual legalization of dozens of settlement\noutposts."
+            }   
+        ]
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4881_spch019.txt",
+        "Sentence_id": 11,
+        "Sentence": "The foundations of this peace process lie in the\nhearts and minds of the people around Bougainville\nand throughout Papua New Guinea, who are committed\nto peace.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.8079_spch156.txt",
+        "Sentence_id": 1,
+        "Sentence": "Mrs. Pucarinho (Portugal): 1 would like to thank\nthe French presidency for convening today's open\ndebate, and the briefers for their very comprehensive\npresentations this morning.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2012_SPV.6826_spch015.txt",
+        "Sentence_id": 23,
+        "Sentence": "We support\nthe efforts of the Government of Prime Minister Mikati\nto maintain Lebanon's peace and stability.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8473_spch059.txt",
+        "Sentence_id": 16,
+        "Sentence": "If we are to succeed in implementing the AU Master\nRoadmap, there are three points that must be met and that\nmy delegation would like to emphasize.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8508_spch102.txt",
+        "Sentence_id": 13,
+        "Sentence": "For example,\nin eastern Democratic Republic of the Congo, Swahili\nspeakers have proved to be more effective in enhancing\nthe interaction between local women and peacekeepers,\nthereby improving situational awareness and further\ninfluencing the local women by acting as role models.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2000_SPV.4248_spch002.txt",
+        "Sentence_id": 71,
+        "Sentence": "I would urge the Council to consider whether sending\nan international force to the region will advance this\ngoal.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "whether",
+                "Span": "whether sending\nan international force to the region will advance this\ngoal."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2007_SPV.5641_spch006.txt",
+        "Sentence_id": 56,
+        "Sentence": "Finally, such an international conference\nwould also be a consensus-building measure.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "would",
+                "Span": "such an international conference\nwould also be a consensus-building measure."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2005_SPV.5110_spch008.txt",
+        "Sentence_id": 48,
+        "Sentence": "They must be given the means to take in\nhand the reconstruction of their own country.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2012_SPV.6881_spch006.txt",
+        "Sentence_id": 15,
+        "Sentence": "Turning to the Committee established pursuant to\nresolution 1970 (2011) concerning Libya, which I have\nchaired since its establishment in February, the first\nobservation I would like to make is that its sanctions\nregime seems likely to have been the most rapidly\nevolving such United Nations regime of recent years.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "seems",
+                "Span": "its sanctions\nregime seems likely to have been the most rapidly\nevolving such United Nations regime of recent years."
+            }  
+        ]
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6196_spch021.txt",
+        "Sentence_id": 36,
+        "Sentence": "This opportunity\nshould be used to define future priorities and to\nidentify how to address the remaining and new\nchallenges in fully implementing resolution 1325\n(2000).",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8256_spch005.txt",
+        "Sentence_id": 29,
+        "Sentence": "They have reported on Hamas messages broadcast over\nloudspeakers, urging demonstrators to burst through\nthe fence and falsely claiming that Israeli soldiers\nwere fleeing when in fact they were not.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.2020_551_spch003.txt",
+        "Sentence_id": 31,
+        "Sentence": "Possibly they did not participate in any act against the authorities but were arrested simply because they belonged to regions that enraged these authorities or as hostages owing to the activism of relatives opposed to the regime.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "Possibly",
+                "Span": "Possibly they did not participate in any act against the authorities but were arrested simply because they belonged to regions that enraged these authorities or as hostages owing to the activism of relatives opposed to the regime."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2014_SPV.7268_spch082.txt",
+        "Sentence_id": 3,
+        "Sentence": "At the most recent United States-Africa Summit,\nMr. Macky Sall, President of the Republic of Senegal,\nalerted the international community that the Ebola\nepidemic was not just an African matter but a global\none, as the virus knows nothing of borders.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2002_SPV.4616_spch004.txt",
+        "Sentence_id": 5,
+        "Sentence": "I hope this will explain\nto our colleagues here why I may have to deliver a\nslightly longer statement than usual, because if I do not\ndeliver it, it will not enter the provisional verbatim\nrecords.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "hope",
+                "Span": "this will explain"
+            },
+            {
+                "Hedge": "may",
+                "Span": "may have to deliver a\nslightly longer statement than usual"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2013_SPV.7050_spch006.txt",
+        "Sentence_id": 7,
+        "Sentence": "We welcome the fact that the two organizations\nare implementing the commitments determined and\ndefined at the OIC-United Nations general meeting held\nin Geneva from 1 to 3 May 2012.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.8699_spch050.txt",
+        "Sentence_id": 18,
+        "Sentence": "The Security Council should speak with one voice in rejecting impunity regarding the human suffering and mass atrocities that have taken place in Syria, Myanmar and Yemen.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8553_spch010.txt",
+        "Sentence_id": 43,
+        "Sentence": "We provide humanitarian assistance.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7951_spch114.txt",
+        "Sentence_id": 27,
+        "Sentence": "Firm measures should be taken in this regard.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2002_SPV.4615_spch001.txt",
+        "Sentence_id": 16,
+        "Sentence": "The meeting rose at 7.25 p.m.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7694_spch027.txt",
+        "Sentence_id": 10,
+        "Sentence": "AU peacekeeping efforts have formed the\nprecursor to, and the basis for, several United Nations\npeacekeeping efforts, for instance in Liberia, Cote\nd'Ivoire, Sierra Leone, Burundi, the Central African\nRepublic and Somalia.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8532_spch007.txt",
+        "Sentence_id": 7,
+        "Sentence": "We are meeting today a year after the crime\ncommitted by the Israeli occupation forces against\ncivilian protesters in Gaza on 14 May 2018, which\nled to the deaths of 60 Palestinian martyrs, including\nchildren, as well as more than 2,000 injured.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7923_spch004.txt",
+        "Sentence_id": 35,
+        "Sentence": "France calls for full light\nto be shed on this very tragic event, so that those\nresponsible can be identified and stand trial for their\ncrimes.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8398_spch012.txt",
+        "Sentence_id": 1,
+        "Sentence": "Mr. Llorentty Soliz (Plurinational State of Bolivia) (spoke in Spanish): My delegation would like to express\nits gratitude for the work of the delegation of the United\nKingdom in drafting of resolution 2444 (2018), which\nwe just adopted unanimously.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2006_SPV.5523_spch016.txt",
+        "Sentence_id": 7,
+        "Sentence": "All such initiatives can contribute to an inclusive\ndialogue, help to reduce internal tensions in Iraq and\nstrengthen national reconciliation.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "can",
+                "Span": "can contribute to an inclusive\ndialogue, help to reduce internal tensions in Iraq and\nstrengthen national reconciliation."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7705_spch002.txt",
+        "Sentence_id": 14,
+        "Sentence": "Tens of millions are\nfleeing war, looking for a chance of survival or for a\nbetter life.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4715_spch025.txt",
+        "Sentence_id": 19,
+        "Sentence": "Indeed, the blame should go to\nUNMISET for its deliberate ignorance in the way that\nit seeks to protect the people from criminal elements.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2015_SPV.7432_spch083.txt",
+        "Sentence_id": 52,
+        "Sentence": "To recognize the\npositive role young people can play, several entities of\nthe United Nations - the Peacebuilding Commission,\nthe United Nations Development Programme, the\nUnited Nations Population Fund, UNICEF, the Alliance\nof Civilizations and others - in partnership with such\ncivil society organizations as Search for Common\nGround, World Vision and the United Network of\nYoung Peacebuilders, published the Guiding Principles\non Young People's Participation in Peacebuilding last\nyear.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7739_spch006.txt",
+        "Sentence_id": 4,
+        "Sentence": "First, with regard to the setting up ofthe 2231 (2015)\nformat, I should recognize that, when the Council\nappointed me as Facilitator for the implementation of\nresolution 2231 (2015), the first thing that came to my\nmind was: What is a Facilitator ofa resolution?",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_1999_SPV.4049Resumption1_spch006.txt",
+        "Sentence_id": 9,
+        "Sentence": "Peace and calm have\nindeed been restored in some areas.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8603_spch020.txt",
+        "Sentence_id": 11,
+        "Sentence": "It is our\nstrong belief that the authorities should spare no effort\nto hold the perpetrators accountable and do their utmost\nto fight impunity in Darfur.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8388_spch016.txt",
+        "Sentence_id": 19,
+        "Sentence": "In principle, therefore, given\nthe Court's noticeably shaky reputation in the eyes of\nmany States Members ofthe United Nations, attested to\nby the debate in the General Assembly on 29 October\n(see A/73/PV.27) - and as my colleague from the\nNetherlands correctly remarked when she said that the\ninvestigations \"are not quick enough\", we believe that\nwe can and should consider changing the frequency of\nthe ICC's briefings to the Council.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "In principle",
+                "Span": "therefore, given\nthe Court's noticeably shaky reputation in the eyes of\nmany States Members ofthe United Nations, attested to\nby the debate in the General Assembly on 29 October\n(see A/73/PV.27) - and as my colleague from the\nNetherlands correctly remarked when she said that the\ninvestigations \"are not quick enough\"," 
+            },
+            {
+                "Hedge": "believe",
+                "Span": "believe that\nwe can and should consider changing the frequency of\nthe ICC's briefings to the Council."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2005_SPV.5209_spch027.txt",
+        "Sentence_id": 36,
+        "Sentence": "In addition to condemning attacks against those\nwho perpetrate violence against aid staff, the Council\ncan take concrete action by encouraging the General\nAssembly to rapidly reach a conclusion on the\nexpansion of the scope of the 1994 Convention on the\nSafety of United Nations and Associated Personnel and\nto remove the exceptional risk requirement so that it\ncan cover all United Nations and associated staff\nwhose work, by its very nature, renders them\nvulnerable to attack.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8305_spch079.txt",
+        "Sentence_id": 2,
+        "Sentence": "I also wish to thank the Secretary-General\nfor his report (S/2018/465), as well as the Special\nRepresentative of the Secretary-General for Children\nin Armed Conflict, the Executive Director for UNICEF\nand Ms. Londofio for their briefings\n\nIndonesia aligns itself with the statement made\nby the representative of Viet Nam on behalf of the\nAssociation of Southeast Asian Nations, and I would like\nto add the following remarks in my national capacity.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2015_SPV.7442_spch097.txt",
+        "Sentence_id": 25,
+        "Sentence": "Without delving into the technical details, I would\nlike to draw the Council's attention to one example\nof the evidence of weaponry supplies through the\nUkrainian-Russian border segment.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4684_spch014.txt",
+        "Sentence_id": 3,
+        "Sentence": "Since this body began to focus special attention\non this subject, just a few months ago, thousands of\nchildren have been killed or wounded in armed\nconflicts in a world that still has learned neither to\nsettle its disputes through peaceful means nor to\nprevent the additional crime of involving children in\nthe calamities of war and armed conflict.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2004_SPV.4941_spch004.txt",
+        "Sentence_id": 27,
+        "Sentence": "The Berlin conference was a very successful step\nforward.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6197_spch002.txt",
+        "Sentence_id": 46,
+        "Sentence": "On piracy, we would like to praise once again the\ncritical role played by the international maritime\npresence off Somalia's coast.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6191_spch026.txt",
+        "Sentence_id": 1,
+        "Sentence": "Mr. Hatoyama (Japan): At the outset, I would\nlike to express my sincere gratitude to President\nObama for his timely initiative to hold this meeting.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2015_SPV.7561_spch016.txt",
+        "Sentence_id": 22,
+        "Sentence": "In the context of all this, we suggest that additional\nopportunities for relations with institutions of the\nUnited Nations system be evaluated so as to contribute\nto the political heritage that should be available to the\nCouncil.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "suggest",
+                "Span": "suggest that additional\nopportunities for relations with institutions of the\nUnited Nations system be evaluated so as to contribute\nto the political heritage that should be available to the\nCouncil."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2007_SPV.5776Resumption1_spch007.txt",
+        "Sentence_id": 10,
+        "Sentence": "I therefore hope that this is not\nconsidered as a second-class exercise or a meeting just\nfor show.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "hope",
+                "Span": "hope that this is not\nconsidered as a second-class exercise or a meeting just\nfor show."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2004_SPV.5041_spch032.txt",
+        "Sentence_id": 14,
+        "Sentence": "We should reaffirm the prerogatives of the\nSpecial Representative, as head of the mission, in his\nsupervisory capacity over the utilization on the ground\nof the resources and forces at his disposal.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2000_SPV.4092_spch016.txt",
+        "Sentence_id": 54,
+        "Sentence": "The Security\nCouncil has full responsibility to halt such activities.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2006_SPV.5353_spch017.txt",
+        "Sentence_id": 94,
+        "Sentence": "I can assure the Council that\ncooperation with Ambassador Fujisaki is excellent and\nthat we truly are working together very enthusiastically\nin order to enable UNHCR to be much more effective\nand relevant in the humanitarian community.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7990_spch004.txt",
+        "Sentence_id": 54,
+        "Sentence": "This is essential to continuing to build trust, strengthen\nmultilateral diplomacy, reinforce non-proliferation and\npromote regional peace and stability.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4709_spch022.txt",
+        "Sentence_id": 45,
+        "Sentence": "What message does that send to other\nStates prepared to thumb their noses at international\nlaw and international norms?",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.2020_596_spch012.txt",
+        "Sentence_id": 3,
+        "Sentence": "Despite flare-ups in other regional hotspots, the Palestinian question remains at the heart of the Middle East situation.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2013_SPV.7081_spch022.txt",
+        "Sentence_id": 4,
+        "Sentence": "The delegation of Rwanda would like to endorse\nthe statement of Ambassador Tete Antonio, Permanent\nObserver of the African Union to the United Nations,\nwhom I welcome.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2001_SPV.4272_spch016.txt",
+        "Sentence_id": 25,
+        "Sentence": "We hope that\nthis positive tendency will further grow.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "hope",
+                "Span": "hope that\nthis positive tendency will further grow."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2008_SPV.5843_spch018.txt",
+        "Sentence_id": 18,
+        "Sentence": "We also wish in particular to recall the very\n\nstrong political statement by the Government of\nIndonesia, which also sent out the message that the\nattack on the democratic institutions of Timor-Leste\nwould not be acceptable at all.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "wish",
+                "Span": "wish in particular to recall the very\n\nstrong political statement by the Government of\nIndonesia, which also sent out the message that the\nattack on the democratic institutions of Timor-Leste\nwould not be acceptable at all."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.8755_spch015.txt",
+        "Sentence_id": 26,
+        "Sentence": "Fifthly, and briefly, on climate and security, we appreciate and support the work the United Nations Assistance Mission in Somalia has been doing in this field in particular.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2007_SPV.5784_spch002.txt",
+        "Sentence_id": 35,
+        "Sentence": "We noted the need for\nconfidence-building measures that could have a\nconcrete impact on the security and welfare of the\npopulation in Darfur, in particular in the camps, where\nthe situation is volatile.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "could",
+                "Span": "measures that could have a\nconcrete impact on the security and welfare of the\npopulation in Darfur"
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2005_SPV.5284_spch002.txt",
+        "Sentence_id": 10,
+        "Sentence": "I\nsay the \"right direction\" because, even as we have\nmore than 40 political parties and more than 30\npresidential candidates in Haiti today, I am pleased to\ninform the Council that the political parties are\nworking very well together.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8423_spch022.txt",
+        "Sentence_id": 13,
+        "Sentence": "I believe that, after all those\nresolutions and meetings, it is high time for the Council\nto ask the following question: is the purpose of those\nreports, meetings and resolutions really to improve\nthe humanitarian situation in Syria or for some to put\npolitical pressure on the Syrian Government and to use\nthe suffering and pain of Syrians for cheap political\npurposes?",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "believe",
+                "Span": "believe that, after all those\nresolutions and meetings, it is high time for the Council\nto ask the following question: is the purpose of those\nreports, meetings and resolutions really to improve\nthe humanitarian situation in Syria or for some to put\npolitical pressure on the Syrian Government and to use\nthe suffering and pain of Syrians for cheap political\npurposes? "
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2017_SPV.7971_spch017.txt",
+        "Sentence_id": 25,
+        "Sentence": "Thus this\ncomponent should become an indispensable element of\nall AU operations authorized by the Security Council,\nwith proper adherence to the United Nations human\nrights due-diligence policy.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2000_SPV.4174_spch013.txt",
+        "Sentence_id": 13,
+        "Sentence": "Of course this should be done while\nrespecting the sovereignty and territorial integrity of\nthe countries concerned and acting with the consent of\nthe relevant Governments.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2011_SPV.6658_spch038.txt",
+        "Sentence_id": 7,
+        "Sentence": "Indeed, whenever a\n\nSyrian representative speaks about terrorism, we\nshould all appreciate the unique opportunity to gain\nsome insight into the mind of a State sponsor of\nterrorism.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2013_SPV.7007_spch029.txt",
+        "Sentence_id": 21,
+        "Sentence": "These pertinent remarks are not indicative of any\nlack of concern on the part of the Holy See for the\nsuffering that afflicts each and every Syrian citizen,\nregardless of religion or ethnicity.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2011_SPV.6472_spch006.txt",
+        "Sentence_id": 30,
+        "Sentence": "First, international support to national institution-\nbuilding should be designed in such a way as to\nsupport national ownership, rather than supplant it.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_1997_SPV.3745_spch013.txt",
+        "Sentence_id": 9,
+        "Sentence": "The parties should continue to base their efforts on\nwhat has been achieved so far and refrain from measures\nthat can threaten the peace process.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "can",
+                "Span": "measures\nthat can threaten the peace process."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.2020_979_spch002.txt",
+        "Sentence_id": 30,
+        "Sentence": "To effectively fulfil these roles, we will continue to transform the way in which we work, by making more efficient use of the political and programmatic resources of the United Nations to better address the intractable structural obstacles that prevent meaningful and tangible progress in Haiti.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2014_SPV.7316_spch035.txt",
+        "Sentence_id": 19,
+        "Sentence": "However,\nit is a matter of concern that there is no single point\nor coordinator accountable to the States Members of\nthe United Nations for the activities of these various\nentities.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7637_spch006.txt",
+        "Sentence_id": 1,
+        "Sentence": "Ms. Citaku: It is an honour for me to present some\nof the latest developments in the Republic of Kosovo.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.8723_spch031.txt",
+        "Sentence_id": 32,
+        "Sentence": "As it turns out, the authorities in the Sudan seem to have come to a different conclusion.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "seem",
+                "Span": "the authorities in the Sudan seem to have come to a different conclusion."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_1996_SPV.3621_spch026.txt",
+        "Sentence_id": 28,
+        "Sentence": "This\nopportunity should not be allowed to slip away.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2016_SPV.7645_spch008.txt",
+        "Sentence_id": 13,
+        "Sentence": "In our view, a key to\nstability in Afghanistan is the combat-ready national\nsecurity forces, which must be able to independently\nensure peace and stability in their country.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6186_spch015.txt",
+        "Sentence_id": 1,
+        "Sentence": "Mr. Urbina (Costa Rica) (spoke in Spanish): As I\ntake the floor for the first time this month, I should like\nto congratulate you, Madam, on your assumption of the\npresidency and once again express to you the support\nof my delegation, which I will prove by brutally\nshortening the statement I had prepared.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2007_SPV.5628_spch020.txt",
+        "Sentence_id": 35,
+        "Sentence": "That should not in any way\nmean, however, impunity for perpetrators of serious\ncrimes and violations of human rights.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2001_SPV.4334_spch010.txt",
+        "Sentence_id": 36,
+        "Sentence": "But, while respecting institutional mandates, we must\nadapt our efforts to the problem at hand.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2019_SPV.8600_spch035.txt",
+        "Sentence_id": 71,
+        "Sentence": "I shall speak to them\nnow directly.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8346_spch004.txt",
+        "Sentence_id": 42,
+        "Sentence": "An important component of any effort to strengthen\nthe Security Council's ability to counter corrupt\nactivities that fuel conflict more effective is to move\nbeyond working with Governments alone.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2013_SPV.6917Resumption1_spch014.txt",
+        "Sentence_id": 25,
+        "Sentence": "The Movement\nunderlines the fact that the protection of civilians is\nthe primary responsibility of the host country and,\naccordingly, emphasizes that relevant peacekeeping\nmissions with such a mandate should conduct their\ntasks without prejudice to the primary responsibility of\nthe host Government to protect civilians.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "should",
+                "Span": "should conduct their\ntasks without prejudice to the primary responsibility of\nthe host Government to protect civilians."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8160_spch004.txt",
+        "Sentence_id": 50,
+        "Sentence": "That is\nwhy we should work closely within the United Nations\ncommunity to make sure that it never happens.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_1997_SPV.3745_spch014.txt",
+        "Sentence_id": 11,
+        "Sentence": "What has happened thus far is\nindeed cause for serious concern, but in no way justifies a\nviolent response, which would only encourage extremism\non both sides.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "would",
+                "Span": "would only encourage extremism\non both sides."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2011_SPV.6534_spch014.txt",
+        "Sentence_id": 5,
+        "Sentence": "China hopes that the parties concerned will\nmake joint efforts to maintain stability and avoid any\nacts that could cause tensions to escalate.",
+        "Gold_Hedges": [ 
+            {
+                "Hedge": "hopes",
+                "Span": "hopes that the parties concerned will\nmake joint efforts to maintain stability and avoid any\nacts that could cause tensions to escalate."
+            }
+        ]
+    },
+    {
+        "Review_id": "UNSC_2014_SPV.7353_spch013.txt",
+        "Sentence_id": 36,
+        "Sentence": "Today's meeting, a first of its kind, should not\nbe without a follow-up.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2003_SPV.4843_spch006.txt",
+        "Sentence_id": 19,
+        "Sentence": "We would also like to mention the resumed work\nof the appeals court, after more than a year of\nparalysis, and the bill on the election of mayors and\nmunicipal councils.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2018_SPV.8228Resumption1_spch044.txt",
+        "Sentence_id": 16,
+        "Sentence": "However, beyond Marx, Engels and Lenin, I\nwould like to quote from Shakespeare as saying: \"Lies\nshame you.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6154_spch002.txt",
+        "Sentence_id": 29,
+        "Sentence": "Two weeks ago, I visited a so-called call centre,\nwhere voters can call in to ask questions about the\nelections.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2004_SPV.5080_spch012.txt",
+        "Sentence_id": 51,
+        "Sentence": "So I insisted that the retired President of\nTanzania, the late Mwalimu Nyerere, should head that\nprocess.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2020_SPV.2020_911_spch004.txt",
+        "Sentence_id": 31,
+        "Sentence": "That is why, at the recent Security Council meeting to extend the mandate of UNIFIL, China stressed that the resources should not be cut without careful considerations.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2001_SPV.4288Resumption1_spch001.txt",
+        "Sentence_id": 16,
+        "Sentence": "The Security Council should respond with the\nsame determination and the same speed when it is\ndealing with a situation that poses a threat to\ninternational peace and security.",
+        "Gold_Hedges": []
+    },
+    {
+        "Review_id": "UNSC_2009_SPV.6149_spch004.txt",
+        "Sentence_id": 11,
+        "Sentence": "Every effort must be made to\nensure that they are conducted in an atmosphere of\ntranquillity, that the electoral process is free, fair and\ntransparent, and that the results are respected.",
+        "Gold_Hedges": []
+    }
+]
