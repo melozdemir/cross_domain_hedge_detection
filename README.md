@@ -1,5 +1,7 @@
 # cross_domain_hedge_detection
 
+By Melisa Özdemir, Josefa De La Luz Costa Rojo, Kseniya K 
+
 A transformer-based system for hedge cue detection across domains, supporting training, inference, and cross-domain analysis. This repository includes code for training on labeled datasets (BioScope, HedgePeer), inference on political debates (UNSC), and evaluating model performance.
 
 ---
