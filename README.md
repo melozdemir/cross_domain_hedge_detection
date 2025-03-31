@@ -1,4 +1,4 @@
-# cross_domain_hedge_detection
+# Cross Domain Hedge Detection
 
 By Melisa Özdemir, Josefa de la Luz Costa Rojo, Kseniya Karasjova
 
